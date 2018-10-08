@@ -34,7 +34,8 @@ namespace ACM.BL
                 City = "Hobboton",
                 State = "Shire",
                 Country = "Middle Earth"
-            }
+            };
+            return addressList;
         }
 
         public bool Save()

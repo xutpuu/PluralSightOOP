@@ -26,6 +26,10 @@ namespace ACM.BL
             if (OrderDate == null) isValid = false;
             return isValid;
         }
+        public override string ToString()
+        {
+            return OrderDate.Value.Date + " (" + OrderId + ")";
+        }
 
     }
 }
