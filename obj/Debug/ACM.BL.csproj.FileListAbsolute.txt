@@ -3,3 +3,5 @@ c:\users\egor\documents\visual studio 2015\Projects\ACM\ACM.BL\bin\Debug\ACM.BL.
 c:\users\egor\documents\visual studio 2015\Projects\ACM\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
 c:\users\egor\documents\visual studio 2015\Projects\ACM\ACM.BL\obj\Debug\ACM.BL.dll
 c:\users\egor\documents\visual studio 2015\Projects\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\Users\Egor\documents\visual studio 2015\Projects\ACM\ACM.BL\bin\Debug\Ame.Common.dll
+C:\Users\Egor\documents\visual studio 2015\Projects\ACM\ACM.BL\bin\Debug\Ame.Common.pdb

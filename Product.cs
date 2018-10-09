@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Ame.Common;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,7 +25,17 @@ namespace ACM.BL
 
         public string ProductDescription { get; set; }
 
-        public string ProductName { get; set; }
+        private String _ProductName;
+
+        public String ProductName
+        {
+            get
+            {
+                return _ProductName.InsertSpaces();
+            }
+            set { _ProductName = value; }
+        }
+
 
         public override bool Validate()
         {
