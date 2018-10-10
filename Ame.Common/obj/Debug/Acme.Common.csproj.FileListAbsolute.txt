@@ -1,0 +1,6 @@
+C:\Users\Egor\Documents\Visual Studio 2015\Projects\ACM\Ame.Common\bin\Debug\Ame.Common.dll
+C:\Users\Egor\Documents\Visual Studio 2015\Projects\ACM\Ame.Common\bin\Debug\Ame.Common.pdb
+C:\Users\Egor\Documents\Visual Studio 2015\Projects\ACM\Ame.Common\obj\Debug\Acme.Common.csprojAssemblyReference.cache
+C:\Users\Egor\Documents\Visual Studio 2015\Projects\ACM\Ame.Common\obj\Debug\Acme.Common.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Documents\Visual Studio 2015\Projects\ACM\Ame.Common\obj\Debug\Ame.Common.dll
+C:\Users\Egor\Documents\Visual Studio 2015\Projects\ACM\Ame.Common\obj\Debug\Ame.Common.pdb

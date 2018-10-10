@@ -1,0 +1,12 @@
+C:\Users\Egor\documents\visual studio 2015\Projects\ACM\Acme.CommonTest\bin\Debug\Acme.CommonTest.dll
+C:\Users\Egor\documents\visual studio 2015\Projects\ACM\Acme.CommonTest\bin\Debug\Acme.CommonTest.pdb
+C:\Users\Egor\documents\visual studio 2015\Projects\ACM\Acme.CommonTest\bin\Debug\Ame.Common.dll
+C:\Users\Egor\documents\visual studio 2015\Projects\ACM\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Egor\documents\visual studio 2015\Projects\ACM\Acme.CommonTest\bin\Debug\Ame.Common.pdb
+C:\Users\Egor\documents\visual studio 2015\Projects\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.dll
+C:\Users\Egor\documents\visual studio 2015\Projects\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.pdb
+C:\Users\Egor\Documents\Visual Studio 2015\Projects\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.csprojAssemblyReference.cache
+C:\Users\Egor\Documents\Visual Studio 2015\Projects\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Documents\Visual Studio 2015\Projects\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.csproj.CopyComplete
+C:\Users\Egor\Documents\Visual Studio 2015\Projects\ACM\Acme.CommonTest\bin\Debug\ACM.BL.dll
+C:\Users\Egor\Documents\Visual Studio 2015\Projects\ACM\Acme.CommonTest\bin\Debug\ACM.BL.pdb

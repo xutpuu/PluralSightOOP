@@ -1,0 +1,11 @@
+c:\users\egor\documents\visual studio 2015\Projects\ACM\ACM.BL.Test\bin\Debug\ACM.BL.Test.dll
+c:\users\egor\documents\visual studio 2015\Projects\ACM\ACM.BL.Test\bin\Debug\ACM.BL.Test.pdb
+c:\users\egor\documents\visual studio 2015\Projects\ACM\ACM.BL.Test\bin\Debug\ACM.BL.dll
+c:\users\egor\documents\visual studio 2015\Projects\ACM\ACM.BL.Test\bin\Debug\ACM.BL.pdb
+c:\users\egor\documents\visual studio 2015\Projects\ACM\ACM.BL.Test\obj\Debug\ACM.BL.Test.dll
+c:\users\egor\documents\visual studio 2015\Projects\ACM\ACM.BL.Test\obj\Debug\ACM.BL.Test.pdb
+C:\Users\Egor\documents\visual studio 2015\Projects\ACM\ACM.BL.Test\bin\Debug\Ame.Common.dll
+C:\Users\Egor\documents\visual studio 2015\Projects\ACM\ACM.BL.Test\bin\Debug\Ame.Common.pdb
+C:\Users\Egor\Documents\Visual Studio 2015\Projects\ACM\ACM.BL.Test\obj\Debug\ACM.BL.Test.csprojAssemblyReference.cache
+C:\Users\Egor\Documents\Visual Studio 2015\Projects\ACM\ACM.BL.Test\obj\Debug\ACM.BL.Test.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Documents\Visual Studio 2015\Projects\ACM\ACM.BL.Test\obj\Debug\ACM.BL.Test.csproj.CopyComplete
