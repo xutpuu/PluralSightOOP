@@ -1,8 +1,9 @@
-﻿using System.Collections.Generic;
+﻿using Ame.Common;
+using System.Collections.Generic;
 
 namespace ACM.BL
 {
-    public class Customer: EntityBase
+    public class Customer: EntityBase, ILoggable
     {
         public Customer() : this(0) { }
 
@@ -61,6 +62,14 @@ namespace ACM.BL
             return FullName;
         }
 
+        public string Log()
+        {
+            var logString = this.CustomerId + ": " +
+                            this.FullName + " " +
+                            "Email: " + this.EmailAddress + " " +
+                            "Status: " + this.EntityState.ToString();
+            return logString;
+        }
 
     }
 }
